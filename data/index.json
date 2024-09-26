@@ -4,49 +4,55 @@
         "icon": "icon",
         "name": "Visual Studio Code",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/code.png",
-        "competency": 100
+        "competency": "Intermediate"
       },
       {
         "icon": "icon",
         "name": "Javascript",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/javascript.png",
-        "competency": 80
+        "competency": "Intermediate"
+      },
+      {
+        "icon": "icon",
+        "name": "PHP",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/php.png",
+        "competency": "Beginner"
       },
       {
         "icon": "icon",
         "name": "Node.js",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nodejs-alt.png",
-        "competency": 80
+        "competency": "Intermediate"
       },
       {
         "icon": "icon",
         "name": "Git",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/git.png",
-        "competency": 80
+        "competency": "Intermediate"
       },
       {
         "icon": "icon",
         "name": "MySQL",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/mysql.png",
-        "competency": 90
+        "competency": "Intermediate"
       },
       {
         "icon": "icon",
         "name": "Vue.js",
         "github": "https://zubayrlatief.github.io/Images-/vue.png",
-        "competency": 80
+        "competency": "Intermediate"
       },
       {
         "icon": "icon",
         "name": "Bootstrap",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/bootstrap.png",
-        "competency": 75
+        "competency": "Expert"
       },
       {
         "icon": "icon",
         "name": "Css",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/css.png",
-        "competency": 70
+        "competency":  "Intermediate"
       }
     ]
   }
