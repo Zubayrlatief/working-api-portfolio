@@ -48,6 +48,23 @@
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/css.png",
         "competency": 70
       }
+    ],
+    "softSkills": [
+      {
+        "title" : "Problem Solver",
+        "description" : "Able to take a systematic aproach",
+        "url" : "https://zubayrlatief.github.io/Images-/problemsolver.png"
+      },
+      {
+        "title" : "Emotional Intelligence",
+        "description" : "Emotions do not dictate my decisions",
+        "url" : "https://zubayrlatief.github.io/Images-/EI.png"
+      },
+      {
+        "title" : "Time Management",
+        "description" : "Time is my most valubale resource",
+        "url" : "https://zubayrlatief.github.io/Images-/time.png"
+      }
     ]
   }
   
