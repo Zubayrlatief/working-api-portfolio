@@ -53,6 +53,12 @@
         "name": "Css",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/css.png",
         "competency":  "Intermediate"
+      },
+      {
+        "icon": "icon",
+        "name": "WordPress",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/wordpress.png",
+        "competency":  "Intermediate"
       }
     ],
     "softSkills": [
@@ -70,7 +76,8 @@
         "title" : "Time Management",
         "description" : "Time is my most valubale resource",
         "url" : "https://zubayrlatief.github.io/Images-/time.png"
-      }
+      },
+      
     ],
     "awsCerts": [
       {
