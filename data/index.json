@@ -64,7 +64,7 @@
     "softSkills": [
       {
         "title" : "Problem Solver",
-        "description" : "Able to take a systematic aproach",
+        "description" : "Able to take a systematic approach",
         "url" : "https://zubayrlatief.github.io/Images-/problemsolver.png"
       },
       {
@@ -74,10 +74,9 @@
       },
       {
         "title" : "Time Management",
-        "description" : "Time is my most valubale resource",
+        "description" : "Time is my most valuable resource",
         "url" : "https://zubayrlatief.github.io/Images-/time.png"
-      },
-      
+      }
     ],
     "awsCerts": [
       {
