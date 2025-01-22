@@ -50,6 +50,30 @@
       },
       {
         "icon": "icon",
+        "name": "Bootstrap",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/amazon-web-services.png",
+        "competency": "Expert"
+      },
+      {
+        "icon": "icon",
+        "name": "Bootstrap",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/firebase.png",
+        "competency": "Expert"
+      },
+      {
+        "icon": "icon",
+        "name": "Bootstrap",
+        "github": "https://zubayrlatief.github.io/Images-/flutter.jpg",
+        "competency": "Expert"
+      },
+      {
+        "icon": "icon",
+        "name": "Bootstrap",
+        "github": "https://zubayrlatief.github.io/Images-/figma-removebg-preview (1).png",
+        "competency": "Expert"
+      },
+      {
+        "icon": "icon",
         "name": "Css",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/css.png",
         "competency":  "Intermediate"
