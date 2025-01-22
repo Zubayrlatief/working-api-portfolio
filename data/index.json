@@ -77,6 +77,61 @@
         "name": "Css",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/css.png",
         "competency":  "Intermediate"
+      },
+      {
+        "icon": "icon",
+        "name": "WordPress",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/wordpress.png",
+        "competency":  "Intermediate"
+      }
+    ],
+    "softSkills": [
+      {
+        "title" : "Problem Solver",
+        "description" : "Able to take a systematic approach",
+        "url" : "https://zubayrlatief.github.io/Images-/problemsolver.png"
+      },
+      {
+        "title" : "Emotional Intelligence",
+        "description" : "Emotions do not dictate my decisions",
+        "url" : "https://zubayrlatief.github.io/Images-/EI.png"
+      },
+      {
+        "title" : "Time Management",
+        "description" : "Time is my most valuable resource",
+        "url" : "https://zubayrlatief.github.io/Images-/time.png"
+      }
+    ],
+    "awsCerts": [
+      {
+        "url": "https://zubayrlatief.github.io/Images-/pt1.png"
+      },
+      {
+        "url": "https://zubayrlatief.github.io/Images-/pt3.png"
+      },
+      {
+        "url": "https://zubayrlatief.github.io/Images-/pt4.png"
+      },
+      {
+        "url": "https://zubayrlatief.github.io/Images-/p1.png"
+      },
+      {
+        "url": "https://zubayrlatief.github.io/Images-/p2.png"
+      },
+      {
+        "url": "https://zubayrlatief.github.io/Images-/p3.png"
+      },
+      {
+        "url": "https://zubayrlatief.github.io/Images-/p4.png"
+      },
+      {
+        "url": "https://zubayrlatief.github.io/Images-/lab.png"
+      },
+      {
+        "url": "https://zubayrlatief.github.io/Images-/into.png"
+      },
+      {
+        "url": "https://zubayrlatief.github.io/Images-/ai.png"
       }
     ]
   }
