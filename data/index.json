@@ -2,8 +2,8 @@
     "skills": [
       {
         "icon": "icon",
-        "name": "Visual Studio Code",
-        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/code.png",
+        "name": "Vue.js",
+        "github": "https://zubayrlatief.github.io/Images-/vueRMBG.png",
         "competency": "Intermediate"
       },
       {
@@ -14,9 +14,21 @@
       },
       {
         "icon": "icon",
+        "name": "Typescript",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/typescript.png",
+        "competency": "Intermediate"
+      },
+      {
+        "icon": "icon",
         "name": "PHP",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/php.png",
         "competency": "Beginner"
+      },
+      {
+        "icon": "icon",
+        "name": "MySQL",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/mysql.png",
+        "competency": "Intermediate"
       },
       {
         "icon": "icon",
@@ -32,45 +44,27 @@
       },
       {
         "icon": "icon",
-        "name": "MySQL",
-        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/mysql.png",
-        "competency": "Intermediate"
-      },
-      {
-        "icon": "icon",
-        "name": "Vue.js",
-        "github": "https://zubayrlatief.github.io/Images-/vueRMBG.png",
-        "competency": "Intermediate"
-      },
-      {
-        "icon": "icon",
         "name": "Bootstrap",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/bootstrap.png",
         "competency": "Expert"
       },
       {
         "icon": "icon",
-        "name": "Bootstrap",
+        "name": "EC2/DYNAMODBB/S3",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/amazon-web-services.png",
-        "competency": "Expert"
+        "competency": "Beginner"
       },
       {
         "icon": "icon",
-        "name": "Bootstrap",
+        "name": "Firebase",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/firebase.png",
         "competency": "Expert"
       },
       {
         "icon": "icon",
-        "name": "Bootstrap",
-        "github": "https://zubayrlatief.github.io/Images-/flutter.jpg",
-        "competency": "Expert"
-      },
-      {
-        "icon": "icon",
-        "name": "Bootstrap",
-        "github": "https://zubayrlatief.github.io/Images-/figma-removebg-preview (1).png",
-        "competency": "Expert"
+        "name": "Flutter",
+        "github": "https://zubayrlatief.github.io/Images-/flutter-removebg-preview.png",
+        "competency": "Intermediate"
       },
       {
         "icon": "icon",
@@ -80,9 +74,21 @@
       },
       {
         "icon": "icon",
+        "name": "Figma",
+        "github": "https://zubayrlatief.github.io/Images-/figma-removebg-preview (1).png",
+        "competency": "Intermediate"
+      },
+      {
+        "icon": "icon",
         "name": "WordPress",
         "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/wordpress.png",
         "competency":  "Intermediate"
+      },
+      {
+        "icon": "icon",
+        "name": "Visual Studio Code",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/code.png",
+        "competency": "Intermediate"
       }
     ],
     "softSkills": [
